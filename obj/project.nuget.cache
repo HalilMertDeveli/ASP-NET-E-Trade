@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qSk+KP55SbmRSwwpMsKJuIZNxCeF8xEthevP1mlmFUWJuLrvr54XFThG5liDIb/lOdKvWT52W5M/1pj2LZ4UuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\halil\\source\\repos\\database_programming_week_seven\\e-trade-app\\etrade-app\\etrade-app\\etrade-app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\halil\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.6\\microsoft.visualstudio.azure.containers.tools.targets.1.19.6.nupkg.sha512"
+  ],
+  "logs": []
+}
