@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("etrade-app")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebfd41774c09ca5518921eecb768dd3d24898149")]
 [assembly: System.Reflection.AssemblyProductAttribute("etrade-app")]
 [assembly: System.Reflection.AssemblyTitleAttribute("etrade-app")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

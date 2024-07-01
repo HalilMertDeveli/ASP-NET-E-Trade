@@ -1,4 +1,7 @@
-﻿<!DOCTYPE html>
+﻿@{
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,13 +9,18 @@
     <title>E-Ticaret Uygulaması</title>
     <link href="css/login_header.css" rel="stylesheet">
     <link href="css/main_product_view.css" rel="stylesheet">
+    <link href="~/css/home/home_grid.css" rel="stylesheet" />
+    <link href="~/css/home/home_page.css" rel="stylesheet" />
 </head>
 <body>
     <header class="header">
         <h1>E-Ticaret Uygulaması</h1>
         <div class="auth-buttons">
-            <button class="button">Giriş Yap</button>
+
+            <button class="button" asp-controller="Create" asp-action="Index">Giriş Yap</button>
             <button class="button">Kaydol</button>
+          
+            
         </div>
     </header>
     <main class="product-grid">

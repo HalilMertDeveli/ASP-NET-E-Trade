@@ -5,16 +5,28 @@
       "PackagePath": "staticwebassets\\etrade-app.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\halil\\source\\repos\\database_programming_week_seven\\e-trade-app\\etrade-app\\etrade-app\\wwwroot\\css\\login_header.css",
-      "PackagePath": "staticwebassets\\css\\login_header.css"
+      "Id": "C:\\Users\\halil\\source\\repos\\database_programming_week_seven\\e-trade-app\\etrade-app\\etrade-app\\wwwroot\\css\\card\\card.css",
+      "PackagePath": "staticwebassets\\css\\card\\card.css"
     },
     {
-      "Id": "C:\\Users\\halil\\source\\repos\\database_programming_week_seven\\e-trade-app\\etrade-app\\etrade-app\\wwwroot\\css\\main_product_view.css",
-      "PackagePath": "staticwebassets\\css\\main_product_view.css"
+      "Id": "C:\\Users\\halil\\source\\repos\\database_programming_week_seven\\e-trade-app\\etrade-app\\etrade-app\\wwwroot\\css\\forgotPassword\\forgotPassword.css",
+      "PackagePath": "staticwebassets\\css\\forgotPassword\\forgotPassword.css"
     },
     {
-      "Id": "C:\\Users\\halil\\source\\repos\\database_programming_week_seven\\e-trade-app\\etrade-app\\etrade-app\\wwwroot\\css\\site.css",
-      "PackagePath": "staticwebassets\\css\\site.css"
+      "Id": "C:\\Users\\halil\\source\\repos\\database_programming_week_seven\\e-trade-app\\etrade-app\\etrade-app\\wwwroot\\css\\home\\home_grid.css",
+      "PackagePath": "staticwebassets\\css\\home\\home_grid.css"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\database_programming_week_seven\\e-trade-app\\etrade-app\\etrade-app\\wwwroot\\css\\home\\home_page.css",
+      "PackagePath": "staticwebassets\\css\\home\\home_page.css"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\database_programming_week_seven\\e-trade-app\\etrade-app\\etrade-app\\wwwroot\\css\\login\\login.css",
+      "PackagePath": "staticwebassets\\css\\login\\login.css"
+    },
+    {
+      "Id": "C:\\Users\\halil\\source\\repos\\database_programming_week_seven\\e-trade-app\\etrade-app\\etrade-app\\wwwroot\\css\\singUp\\singUp.css",
+      "PackagePath": "staticwebassets\\css\\singUp\\singUp.css"
     },
     {
       "Id": "C:\\Users\\halil\\source\\repos\\database_programming_week_seven\\e-trade-app\\etrade-app\\etrade-app\\wwwroot\\favicon.ico",
